@@ -1,9 +1,12 @@
 # detect-le-defect
 General DetectLeDefect Repository for Organizational purposes
 
-## Information Page
-![dld info page](https://github.com/DetectLeDefect/detect-le-defect/assets/71192682/8cad4500-643d-4b68-b54e-161652171c67)
+## Presentation
+![image](https://github.com/DetectLeDefect/detect-le-defect/assets/71192682/445fec4d-66d2-4cfe-b504-731aef5bbc39)
 
+## Information Page
+![image](https://github.com/DetectLeDefect/detect-le-defect/assets/71192682/18c527fb-7872-4acf-a6fc-ea89eb7945a8)
 
 ## Methodology
-![dp](https://github.com/DetectLeDefect/detect-le-defect/assets/71192682/9f780823-7d68-4494-b0bb-27ee06e4f8c6)
+![image](https://github.com/DetectLeDefect/detect-le-defect/assets/71192682/a3fe5151-2c15-4b5f-a203-c9fe2a914ca0)
+
